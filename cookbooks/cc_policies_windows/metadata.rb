@@ -8,7 +8,7 @@
 # =================================================================
 name             'cc_policies_windows'
 # Updated version for dev ivt_20.2
-version          '1.0.42'
+version          '1.0.43'
 maintainer       'Robert Filepp'
 maintainer_email 'filepp@us.ibm.com'
 license          'IBM Proprietary - All rights reserved'
