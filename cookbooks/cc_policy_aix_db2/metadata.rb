@@ -7,7 +7,7 @@
 # disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
 # =================================================================
 name             'cc_policy_aix_db2'
-version          '1.0.3'
+version          '1.0.4'
 maintainer       'Robert Filepp'
 maintainer_email 'filepp@us.ibm.com'
 license          'IBM Proprietary - All rights reserved'
