@@ -7,7 +7,7 @@
 # disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
 # =================================================================
 name             'cc_policy_linux_db2'
-version          '1.0.7'
+version          '1.0.8'
 maintainer       'Robert Filepp'
 maintainer_email 'filepp@us.ibm.com'
 license          'IBM Proprietary - All rights reserved'
