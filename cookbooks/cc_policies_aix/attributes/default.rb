@@ -2,7 +2,7 @@ default['cc_policies_aix']['policy_map'] = { "components" => [
   {{
     identified_by: 'value',
     id: 'os:aix',
-    "enforced_by" => [{
+    "enforced_by" => [
       { policy: 'cc_policy_aix_berkeley', enabled: true },
       { policy: 'cc_policy_aix_db2', enabled: true },
       { policy: 'cc_policy_aix_dict_words', enabled: true },
