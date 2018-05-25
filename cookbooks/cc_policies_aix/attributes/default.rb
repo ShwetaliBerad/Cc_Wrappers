@@ -1,5 +1,5 @@
 default['cc_policies_aix']['policy_map'] = { "components" => [
-  {{
+  {
     identified_by: 'value',
     id: 'os:aix',
     "enforced_by" => [
